@@ -1,8 +1,3 @@
-<div><img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nsy0916"><br/>
-</div>
-<div>
-  <br/>
-<br/>
 <h3>이세계의 남씨를 보러가기(깃랩)ㄴ(^_ ^)ㄱ</h3>
 https://gitlab.com/NamBoongEh
 </div>
